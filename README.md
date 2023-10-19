@@ -6,4 +6,5 @@ Create stars by clicking the mouse, the frequency of creating stars will change 
  <img src="https://github.com/violet0330/KeepCalm_HCI_BC_Unity/blob/master/img/Draw.gif" width="50%">
 
 ## a short usring screen capture vedio
+[![Watch the video](https://github.com/violet0330/KeepCalm_HCI_BC_Unity/blob/master/img/cover.png)]([https://github.com/violet0330/KeepCalm_HCI_BC_Unity/blob/master/img/Video.mkv])
 <https://github.com/violet0330/KeepCalm_HCI_BC_Unity/blob/master/img/Video.mkv>
